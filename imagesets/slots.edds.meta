@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{5ACFBFC3AD3459EB}NewStoryLibrary/imagesets/slots.png"
+ Author "desktop-kst4dp5"
+ ChangeDate -1589972899
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "slots.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}

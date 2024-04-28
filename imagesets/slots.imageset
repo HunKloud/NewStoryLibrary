@@ -1,0 +1,149 @@
+ImageSetClass {
+ Name "NSgInventorySlots"
+ RefSize 2048 2048
+ Textures {
+  ImageSetTextureClass {
+   mpix 1
+   path "{5ACFBFC3AD3459EB}NewStoryLibrary/imagesets/slots.edds"
+  }
+ }
+ Images {
+ }
+ Groups {
+  ImageSetGroupClass PC {
+   Name "PC"
+   Images {
+    ImageSetDefClass PC_GPU {
+     Name "PC_GPU"
+     Pos 0 1020
+     Size 170 170
+     Flags 0
+    }
+    ImageSetDefClass PC_RAM {
+     Name "PC_RAM"
+     Pos 170 1020
+     Size 170 170
+     Flags 0
+    }
+    ImageSetDefClass PC_CPU {
+     Name "PC_CPU"
+     Pos 340 1020
+     Size 170 170
+     Flags 0
+    }
+    ImageSetDefClass PC_FAN {
+     Name "PC_FAN"
+     Pos 510 1020
+     Size 170 170
+     Flags 0
+    }
+    ImageSetDefClass PC_POWER {
+     Name "PC_POWER"
+     Pos 680 1020
+     Size 170 170
+     Flags 0
+    }
+    ImageSetDefClass PC_HDD {
+     Name "PC_HDD"
+     Pos 850 1020
+     Size 170 170
+     Flags 0
+    }
+    ImageSetDefClass PC_BOARD {
+     Name "PC_BOARD"
+     Pos 1020 1020
+     Size 170 170
+     Flags 0
+    }
+    ImageSetDefClass PC_FLASH {
+     Name "PC_FLASH"
+     Pos 1190 1020
+     Size 170 170
+     Flags 0
+    }
+    ImageSetDefClass PC_MONITOR {
+     Name "PC_MONITOR"
+     Pos 1360 1020
+     Size 170 170
+     Flags 0
+    }
+   }
+  }
+  ImageSetGroupClass Electronic {
+   Name "Electronic"
+   Images {
+    ImageSetDefClass Electronic_LCD {
+     Name "Electronic_LCD"
+     Pos 0 1190
+     Size 170 170
+     Flags 0
+    }
+   }
+  }
+  ImageSetGroupClass Tools {
+   Name "Tools"
+   Images {
+    ImageSetDefClass Tools_SolderingIron {
+     Name "Tools_SolderingIron"
+     Pos 1360 340
+     Size 170 170
+     Flags 0
+    }
+    ImageSetDefClass Tools_Repair {
+     Name "Tools_Repair"
+     Pos 1530 340
+     Size 170 170
+     Flags 0
+    }
+    ImageSetDefClass Tools_Axe {
+     Name "Tools_Axe"
+     Pos 0 340
+     Size 170 170
+     Flags 0
+    }
+    ImageSetDefClass Tools_Pliers {
+     Name "Tools_Pliers"
+     Pos 170 340
+     Size 170 170
+     Flags 0
+    }
+    ImageSetDefClass Tools_Hammer {
+     Name "Tools_Hammer"
+     Pos 340 340
+     Size 170 170
+     Flags 0
+    }
+    ImageSetDefClass Tools_HandSaw {
+     Name "Tools_HandSaw"
+     Pos 510 340
+     Size 170 170
+     Flags 0
+    }
+    ImageSetDefClass Tools_HackSaw {
+     Name "Tools_HackSaw"
+     Pos 1020 340
+     Size 170 170
+     Flags 0
+    }
+    ImageSetDefClass Tools_Hatchet {
+     Name "Tools_Hatchet"
+     Pos 1190 340
+     Size 170 170
+     Flags 0
+    }
+    ImageSetDefClass Tools_Shovel {
+     Name "Tools_Shovel"
+     Pos 850 340
+     Size 170 170
+     Flags 0
+    }
+    ImageSetDefClass Tools_Fieldshovel {
+     Name "Tools_Fieldshovel"
+     Pos 680 340
+     Size 170 170
+     Flags 0
+    }
+   }
+  }
+ }
+}
